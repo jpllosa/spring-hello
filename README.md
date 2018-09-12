@@ -1,1 +1,3 @@
-# spring-hello
+# Spring Hello Example
+
+Trying out Spring.
